@@ -6,13 +6,10 @@
 }
 
 .container{
+    height: 700px;
     padding: 20px;
     font-family: 'Inter', sans-serif;
     background: linear-gradient(45deg, #a0e2de, #bad6fb, #fff, #fff, #ffffff, #ffffff, #ffffff);
-}
-
-.reset-container{
-    height: 650px;
 }
 
 .logo img{
